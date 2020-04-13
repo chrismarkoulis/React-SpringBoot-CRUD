@@ -7,5 +7,6 @@
 ``` bash
 # Run Client Server
 cd react-client
+npm install
 npm start
 ```
