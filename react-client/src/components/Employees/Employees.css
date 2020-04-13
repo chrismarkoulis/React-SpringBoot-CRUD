@@ -1,0 +1,20 @@
+.main-wrapper {
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+}
+
+#employee-table {
+    background-color: lightslategray;
+    border: 3px solid black;
+    width: 80%;
+}
+
+#employee-table * {
+    border: 1px solid lightskyblue;
+    color: #fff;
+}
+
+button {
+    width: 70px;
+}
